@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @Hsnmughal
-- I’m interested in Front-End Web Dev.
-- I’m currently learning REACTJS
-- I’m looking to collaborate on intuitive ideas.
-- Reach me via my portfolio.
-
-<!---
-Hsnmughal/Hsnmughal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Hsnmughal, A passionate Full-Stack Blockchain developer working on Ethereum Smart Contracts and DApps. I personally work on Solidity with Web3.js for building a connection between ReactJs. Prior to blockchain development i was working on Front-end Development for over an year.
+- HMU via my Portfolio or LinkedIn Account...
