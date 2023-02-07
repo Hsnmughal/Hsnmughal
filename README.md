@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Hsnmughal, A passionate Full-Stack Blockchain developer working on Ethereum Smart Contracts and DApps. I personally work on Solidity with Web3.js for building a connection between ReactJs. Prior to blockchain development i was working on Front-end Development for over an year.
-- HMU via my Portfolio or LinkedIn Account @M. Hsn Rasheed
+- HMU via my Portfolio or LinkedIn Account @Hsn Mughal
