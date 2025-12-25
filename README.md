@@ -1,30 +1,55 @@
-# Hi there! I'm Hassan 👋
+# Hi there! I'm Hsn 👋
 
-Blockchain enthusiast who enjoys turning coffee into smart contracts ☕→💻
+Former protocol builder turned smart contract security researcher ☕→💻🔍  
+I build systems, then try to break them as efficiently as possible.
 
 ## ✨ About Me
-I wrangle with Solidity during the day and dream about gas optimization at night.
-Sometimes I even make things that don't break during audit! 🎉
+I’m a blockchain engineer who deliberately shifted focus from pure development to **smart contract security and DeFi research**.
 
-## 🛠️ Tech Stack
+After building lending systems, integrations, and full-stack dApps, I moved toward:
+- Auditing protocols instead of just shipping them
+- Reasoning about **invariants, trust boundaries, and economic exploits**
+- Stress-testing assumptions teams forget to write down
+
+I’m interested in *why* contracts fail, not just *how* to deploy them.
+
+## 🛠️ Engineering Background
 ```
-Solidity | EVM | Hardhat | Foundry | Remix 
+Solidity | EVM | Hardhat | Foundry | Remix
 Node.js | Express | MongoDB | React | TypeScript | Next.js
-REST APIs | GraphQL | Web3.js | Ethers.js
+Web3.js | Ethers.js | REST | GraphQL
 ```
 
-## 🧪 Playing With
+## 🔐 Security Research Focus
 ```
-DeFi Protocols | Token Economics | Bonding Curves | Gas Optimization
-Full-Stack dApps | Smart Contract Integration | MERN Applications
+Smart Contract Auditing & Manual Review
+DeFi Protocol Design & Threat Modelling
+Lending / Borrowing Systems
+Liquidation Logic & Oracle Risk
+Precision Loss & Overflow Edge Cases
+Access Control & Authorisation Bugs
+Gas Griefing & Economic Attacks
 ```
 
-## 💬 Let's Chat!
-Got ideas? Want to collaborate? Just want to talk about why gas prices make us cry?
-Drop me a message - I don't bite (unless you prefer high gas fees)!
+## 🧪 Security Tooling & Methods
+```
+Interest Accrual Edge Cases
+Invariant Violations in DeFi Protocols
+State Desync & Accounting Bugs
+Adversarial User Behaviour
+Gas & Storage-Level Exploits
+```
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect!-hsnmughal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hsnmughal)
+
+## 💬 Let's Chat
+If you’re:
+- Building a DeFi protocol and want a hostile review
+- Looking for a security-minded engineer
+- Interested in audits, research, or tooling
+
+Feel free to reach out.  
+I don’t ship vibes — I ship proofs and counterexamples.
 
 ---
 
-*Currently building cool stuff and occasionally debugging things that worked yesterday* 🤔
+*Currently breaking assumptions so users don’t break protocols.*
