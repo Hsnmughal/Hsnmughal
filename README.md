@@ -47,9 +47,4 @@ If you’re:
 - Looking for a security-minded engineer
 - Interested in audits, research, or tooling
 
-Feel free to reach out.  
-I don’t ship vibes — I ship proofs and counterexamples.
-
----
-
-*Currently breaking assumptions so users don’t break protocols.*
+Feel free to reach out.
